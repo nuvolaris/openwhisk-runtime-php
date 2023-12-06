@@ -64,6 +64,7 @@ RUN \
       bcmath \
       gd \
       intl \
+      pgsql \
       mysqli \
       opcache \
       pdo_mysql \
