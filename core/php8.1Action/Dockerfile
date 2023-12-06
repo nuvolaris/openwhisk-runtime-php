@@ -66,6 +66,7 @@ RUN apt-get -y update \
       bcmath \
       gd \
       intl \
+      pgsql \
       mysqli \
       opcache \
       pdo_mysql \
